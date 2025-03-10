@@ -1,0 +1,30 @@
+/* Ensure the login page background is set */
+.login-container {
+    position: relative;
+    /* background-image: url('your-image-url.jpg'); Use your background image URL */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Ensure it takes the full viewport height */
+  }
+  
+  /* Style for the login box */
+  .login-box {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    padding: 40px;
+    border-radius: 10px;
+    max-width: 400px;
+    width: 100%;
+    color: white; /* Ensure the text color is white */
+  }
+  
+  /* Styling for headings and labels */
+  .login-text {
+    color: white; /* Ensure all text in the login form is white */
+    margin-right: 3;
+  }
+  
+  /* Optional: Adjust button appearance if necessary */
+  .login-box .btn-primary {
+    width: 100%;
+  }
+  

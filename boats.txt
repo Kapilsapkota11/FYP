@@ -1,0 +1,58 @@
+[
+  {
+    "boatId": 1,
+    "title": "Canoe",
+    "body": "Paddler : Ramhari Sharma",
+    "condition": "Excellent",
+    "price": "Rs.500/hrs",
+    "image": "https://media.istockphoto.com/id/532348030/photo/twilight-with-boats-on-phewa-lake-pokhara-nepal.jpg?s=612x612&w=0&k=20&c=ILHRUN-zVLTgi37biQMRrIbz7cB9ZH0I6cffwq6kBN4="
+  },
+  {
+    "boatId": 2,
+    "title": "Kayak",
+    "body": "Pokhara Kayak PVT LTD",
+    "condition": "Used",
+    "price": "Rs.800/hrs",
+    "image": "https://paddlepursuits.com/wp-content/uploads/2015/08/Dollarphotoclub_72348093-1024x680.jpg"
+  },
+  {
+    "boatId": 3,
+    "title": "Canoe",
+    "body": "Paddler : Hari Krishna",
+    "condition": "Good",
+    "price": "Rs.300/hrs",
+    "image": "https://media.istockphoto.com/id/532348030/photo/twilight-with-boats-on-phewa-lake-pokhara-nepal.jpg?s=612x612&w=0&k=20&c=ILHRUN-zVLTgi37biQMRrIbz7cB9ZH0I6cffwq6kBN4="
+  },
+  {
+    "boatId": 4,
+    "title": "SUP",
+    "body": "Experience preferred",
+    "condition": "Good",
+    "price": "Rs.750/hrs",
+    "image": "https://www.twosevenths.com/wp-content/uploads/2023/08/%E8%8A%B1%E8%93%AE-SUP-%E6%8E%A8%E8%96%A6-56-%E8%99%9F%E5%9F%BA%E5%9C%B0.jpg"
+  },
+  {
+    "boatId": 5,
+    "title": "Paddle Boat",
+    "body": "Paddle With your feet",
+    "condition": "Good",
+    "price": "Rs.1200",
+    "image": "https://27d522eccb7ed275b272.cdn6.editmysite.com/uploads/b/27d522eccb7ed275b272bd25a6bfbdce40b78306841368400bc1ba7b18e92d7e/U+DuxOCtQYaiTUaGpbQcjQ_1593011508.jpg?width=2400&optimize=medium"
+  },
+    {
+    "boatId": 6,
+    "title": "Motorboat",
+    "body": "Fast and reliable motorboat with 4 seats",
+    "condition": "Fair",
+    "price": "Rs.3000",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcHMMoG_rLIqn1jsY7zKUsN2iJkKDDdPwGg&s"
+  },
+      {
+    "boatId": 7,
+    "title": "Watercraft",
+    "body": "Fastest in Nepal",
+    "condition": "New",
+    "price": "Rs.4500",
+    "image": "https://www.boattrader.com/research/files/personal_watercraft_guide.png"
+  }
+]
